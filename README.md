@@ -1,7 +1,7 @@
 # Wildfire Remote Sensing Notebooks
 
-This repository contains three Jupyter notebooks used to check the quality of Level-2 FOREST-2 product and NRT AF detections. 
-Additionally, you may use this repository to download, process, and analyze MODIS/VIIRS data and perform QA/AF diagnostics.
+This repository contains three Jupyter notebooks used to check the quality of Level-1 FOREST-2 product and NRT AF detections. 
+Additionally, you may use the scripts in this repository to download, process, and analyze MODIS/VIIRS data and perform QA/AF diagnostics.
 
 ## Notebooks
 - **modis_download_process.ipynb** — MODIS download & pairing (L1B/GEO/AF).

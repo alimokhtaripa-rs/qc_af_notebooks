@@ -13,8 +13,8 @@ Use either Conda or pip. The **minimum** Python version recommended is 3.10.
 
 ### Option A — Conda
 ```bash
-conda create -n wildfire-rs python=3.10
-conda activate wildfire-rs
+conda create -n qc_af_notebooks python=3.10
+conda activate qc_af_notebooks
 # Main Dependencies
 conda install -c conda-forge numpy pandas matplotlib scipy rasterio fiona shapely pyproj geopandas affine pyresample h5py pyhdf contextily matplotlib-scalebar tzdata
 # Remaining (if any) via pip

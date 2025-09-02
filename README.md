@@ -4,8 +4,8 @@ This repository contains three Jupyter notebooks used to check the quality of Le
 Additionally, you may use the scripts in this repository to download, process, and analyze MODIS/VIIRS data and perform QA/AF diagnostics.
 
 ## Notebooks
-- **modis_download_process.ipynb** — MODIS download & pairing (L1B/GEO/AF).
-- **viirs_download_process.ipynb** — VIIRS download & pairing (L1B/GEO/AF).
+- **modis_download_process.ipynb** — MODIS download & processing (L1B/GEO/AF).
+- **viirs_download_process.ipynb** — VIIRS download & processing (L1B/GEO/AF).
 - **analysis_qc_af.ipynb** — Quality checks, false positives, Active Fire overlays/diagnostics.
 
 ## Environment

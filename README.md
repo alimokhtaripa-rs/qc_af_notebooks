@@ -33,15 +33,6 @@ pip install -r requirements.txt
 - The notebooks expect credentials via environment variables or interactive prompts.
 - Data (HDF/H5/GeoTIFF/shape files/Tables/Figures) are **NOT** included. Adjust local paths in the first config cells.
 
-## Reproducing
-1. Create the environment (Conda or pip).
-2. Launch Jupyter (Or VS Code):
-   ```bash
-   jupyter lab
-   ```
-3. Open a notebook, review the top configuration cells (date ranges, AOI shapefile paths, base directories), and run.
-
----
 
 ## Dependencies by notebook
 - **modis_download_process.ipynb**: __future__, csv, datetime, earthaccess, fiona, getpass, numpy, os, pathlib, pyhdf, pyproj, pyresample, rasterio, re, shapely, socket, typing, tzdata
